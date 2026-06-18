@@ -32,17 +32,6 @@
     "floor_intensity": 2,
     "accent_color": "#d4a42e",
     "accent_intensity": 1,
-    "updated_at": "2026-06-18T15:31:24+00:00",
-    "state_version": "6d1ef737ddd084337432ddeecadd64ea5fe47af2e0683af37482eb1d391a3370",
-    "mode": "disco",
-    "player_colliders": false,
-    "collider_radius": 0.55,
-    "collider_height": 2.5,
-    "global_scale": false,
-    "scale_mode": "crowd",
-    "scale_fixed": 0.1,
-    "scale_min": 0.1,
-    "scale_max": 1,
-    "scale_per_player": 0.04,
-    "mirror": false
+    "updated_at": "2026-06-18T15:34:07+00:00",
+    "state_version": "5cf37ad8414deb51b1b36d1e6e9a3dbbf6c35bda6df4d35dde3343f733db331a"
 }
