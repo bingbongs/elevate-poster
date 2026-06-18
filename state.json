@@ -31,6 +31,6 @@
     "beam_width": 0,
     "beam_smooth_speed": 2,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-18T18:44:41+00:00",
-    "state_version": "bc15ae754572033a4abd28ecd6fef4e66cdbf29cafafec6553f398c6e6208ede"
+    "updated_at": "2026-06-18T18:45:22+00:00",
+    "state_version": "fe4b190b41988caff7626a0feea3a0d69cee1d358db81df44906c4a6c79e0239"
 }
