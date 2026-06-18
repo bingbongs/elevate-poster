@@ -8,10 +8,10 @@
     "outside_fx": true,
     "global_mirror": false,
     "blackjack_table": false,
-    "slot_machine": true,
-    "stage_lights": false,
+    "slot_machine": false,
+    "stage_lights": true,
     "ceiling_lights": true,
-    "beam_lights": true,
+    "beam_lights": false,
     "beam_audio_link": true,
     "beam_gradient": false,
     "avatar_height_limit": false,
@@ -31,6 +31,6 @@
     "beam_width": 0,
     "beam_smooth_speed": 2,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-18T18:31:18+00:00",
-    "state_version": "15285d01e0cf99d89ee9451554d5bad5fcd9c87a2fa1f6d7d42596ced8523d8b"
+    "updated_at": "2026-06-18T18:44:41+00:00",
+    "state_version": "bc15ae754572033a4abd28ecd6fef4e66cdbf29cafafec6553f398c6e6208ede"
 }
