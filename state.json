@@ -1,16 +1,16 @@
 {
     "live_picture": true,
-    "disco_ball": false,
-    "disco_floor": false,
-    "normal_lights": true,
+    "disco_ball": true,
+    "disco_floor": true,
+    "normal_lights": false,
     "padded_cell": false,
     "couch_area": false,
     "outside_fx": true,
     "global_mirror": false,
     "blackjack_table": false,
     "slot_machine": false,
-    "stage_lights": false,
-    "ceiling_lights": false,
+    "stage_lights": true,
+    "ceiling_lights": true,
     "beam_lights": false,
     "beam_audio_link": false,
     "beam_gradient": false,
@@ -31,6 +31,6 @@
     "beam_width": 0,
     "beam_smooth_speed": 2,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-18T19:05:58+00:00",
-    "state_version": "ae9c7f910a4fc2739f96a98762267056fc868e9fd5ed2a5d54f021bbd14e1202"
+    "updated_at": "2026-06-18T19:23:29+00:00",
+    "state_version": "871e3dfffb8934d261012cfcaf36a2cab5643e41915d3196bbb36767bd29355a"
 }
