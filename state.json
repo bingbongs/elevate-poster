@@ -5,8 +5,8 @@
     "normal_lights": true,
     "padded_cell": false,
     "couch_area": false,
-    "outside_fx": false,
-    "global_mirror": true,
+    "outside_fx": true,
+    "global_mirror": false,
     "blackjack_table": false,
     "slot_machine": true,
     "stage_lights": false,
@@ -31,6 +31,6 @@
     "beam_width": 0,
     "beam_smooth_speed": 2,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-18T18:08:45+00:00",
-    "state_version": "1b0b04eba0a6c45d68ae6d2bfb822cd7ec94c9d3fef828db880202cb184da405"
+    "updated_at": "2026-06-18T18:09:27+00:00",
+    "state_version": "228a1037fb3bda1612116589a3cb3f8a77460505365c3247f1831274593af2f6"
 }
