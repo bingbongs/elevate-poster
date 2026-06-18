@@ -19,7 +19,7 @@
     "beam_lights": false,
     "beam_audio_link": false,
     "beam_gradient": false,
-    "avatar_height_limit": false,
+    "avatar_height_limit": true,
     "avatar_max_eye_height": 1.25,
     "disco_color": "#c25cff",
     "disco_secondary_color": "#00f0ff",
@@ -36,6 +36,6 @@
     "beam_width": 0,
     "beam_smooth_speed": 2,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-18T23:21:16+00:00",
-    "state_version": "2358548c3f85ea790db4e8ce384d1880ab6c3f94541ad685fc1ccd6404422971"
+    "updated_at": "2026-06-18T23:28:15+00:00",
+    "state_version": "7a01ce642c41bfd6400e604af34138b77aef1474b0064f1c06b3b3e35dfafa50"
 }
