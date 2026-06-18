@@ -12,7 +12,7 @@
     "stage_lights": false,
     "ceiling_lights": true,
     "beam_lights": true,
-    "beam_audio_link": false,
+    "beam_audio_link": true,
     "beam_gradient": false,
     "avatar_height_limit": false,
     "avatar_max_eye_height": 0.65,
@@ -31,6 +31,6 @@
     "beam_width": 0,
     "beam_smooth_speed": 2,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-18T18:29:00+00:00",
-    "state_version": "e073cc869cf6f6f0cc52772f98f0b5db037270e3c3b2b1d3ad9f2f08e8a643d0"
+    "updated_at": "2026-06-18T18:31:02+00:00",
+    "state_version": "aa4e2bc4cf0dfcf6b54cc6614439f46ef2ba7f3a8bd45a28974a1cf4d54ca326"
 }
