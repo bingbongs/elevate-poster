@@ -8,10 +8,10 @@
     "outside_fx": true,
     "global_mirror": false,
     "blackjack_table": false,
-    "slot_machine": true,
+    "slot_machine": false,
     "boxing": false,
     "mri": false,
-    "trampoline": false,
+    "trampoline": true,
     "lazer_toggle": false,
     "underglow": true,
     "stage_lights": true,
@@ -36,6 +36,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-19T07:03:44+00:00",
-    "state_version": "deb575fd747d2b964b4431ff745c625f6434440487c95f8cc7478e36bb24f228"
+    "updated_at": "2026-06-19T07:07:10+00:00",
+    "state_version": "d3a22345e1c34fed7a30e6bc192ed82f8d94dabfbba29637d99fe2232a916ad3"
 }
