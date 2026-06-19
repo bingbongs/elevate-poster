@@ -1,7 +1,7 @@
 live_picture=1
 disco_ball=1
 disco_floor=1
-normal_lights=1
+normal_lights=0
 padded_cell=0
 couch_area=0
 outside_fx=1
@@ -35,5 +35,5 @@ beam_intensity=10
 beam_width=0.5
 beam_smooth_speed=4
 beam_audio_band=1
-updated_at=2026-06-19T11:58:48+00:00
-state_version=3c7323cf5fef74a84bfab28538224de49ce7aa3900f65edbed698adae5add046
+updated_at=2026-06-19T11:58:56+00:00
+state_version=84b4370b03bd640f48177db4e9d438709caf4673b6f0eb3be6c7e3ad0c4c30b7
