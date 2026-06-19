@@ -1,9 +1,9 @@
 {
     "live_picture": true,
-    "disco_ball": true,
-    "disco_floor": true,
+    "disco_ball": false,
+    "disco_floor": false,
     "normal_lights": false,
-    "padded_cell": false,
+    "padded_cell": true,
     "couch_area": false,
     "outside_fx": true,
     "global_mirror": false,
@@ -36,6 +36,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-19T07:14:19+00:00",
-    "state_version": "12cd407af1021c2fd0abdd4b77c960cc312afb5202e9e68232954d09d10b0da8"
+    "updated_at": "2026-06-19T08:10:39+00:00",
+    "state_version": "6cb9fe0cbff1ae85b2b1b24c8b7439ba399fac5045fe791631dbf56e24780978"
 }
