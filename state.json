@@ -15,7 +15,7 @@
     "lazer_toggle": false,
     "underglow": true,
     "stage_lights": true,
-    "ceiling_lights": false,
+    "ceiling_lights": true,
     "beam_lights": false,
     "beam_audio_link": true,
     "beam_gradient": false,
@@ -36,6 +36,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-19T11:57:54+00:00",
-    "state_version": "92b062148b0338b896a520cb824e1f038782430c09a7189f0f50eb397566c2a5"
+    "updated_at": "2026-06-19T11:58:48+00:00",
+    "state_version": "3c7323cf5fef74a84bfab28538224de49ce7aa3900f65edbed698adae5add046"
 }
