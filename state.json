@@ -24,7 +24,7 @@
     "disco_color": "#000000",
     "disco_secondary_color": "#000000",
     "disco_intensity": 6,
-    "normal_color": "#000000",
+    "normal_color": "#f3031c",
     "normal_temp": 6500,
     "normal_intensity": 2,
     "floor_color": "#000000",
@@ -36,6 +36,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-19T11:14:31+00:00",
-    "state_version": "1c574dbf340eb40d3f19e7913ca306dd02c4b169487087d7557981f9eeb7a088"
+    "updated_at": "2026-06-19T11:15:55+00:00",
+    "state_version": "080b3126e1e452881a969128cacd0990d4509d2293a0286a25c976f09097661f"
 }
