@@ -8,7 +8,7 @@
     "outside_fx": true,
     "global_mirror": false,
     "blackjack_table": false,
-    "slot_machine": true,
+    "slot_machine": false,
     "boxing": false,
     "mri": false,
     "trampoline": false,
@@ -36,6 +36,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-19T06:08:00+00:00",
-    "state_version": "43596ec1c9db331fd5333f829b26f7289c933b43b9cd7b0e13ed5a8636fad44c"
+    "updated_at": "2026-06-19T07:02:09+00:00",
+    "state_version": "72eae7d2c0f4f1750a740603ac5b5febcf5674cd85b732b44a34d94350554c50"
 }
