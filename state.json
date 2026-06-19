@@ -2,7 +2,7 @@
     "live_picture": true,
     "disco_ball": true,
     "disco_floor": true,
-    "normal_lights": false,
+    "normal_lights": true,
     "padded_cell": false,
     "couch_area": false,
     "outside_fx": true,
@@ -21,11 +21,11 @@
     "beam_gradient": false,
     "avatar_height_limit": false,
     "avatar_max_eye_height": 1.75,
-    "disco_color": "#8da4c5",
-    "disco_secondary_color": "#cf363a",
+    "disco_color": "#be949a",
+    "disco_secondary_color": "#ee17ce",
     "disco_intensity": 0.2,
-    "normal_color": "#f4a73e",
-    "normal_temp": 4350,
+    "normal_color": "#859bad",
+    "normal_temp": 3800,
     "normal_intensity": 0.2,
     "floor_color": "#7138af",
     "floor_intensity": 0.25,
@@ -36,6 +36,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-19T11:59:47+00:00",
-    "state_version": "a529d5b22ed12366ddea522c84b0e711252d2691061be46173e743a71bea048f"
+    "updated_at": "2026-06-19T12:01:23+00:00",
+    "state_version": "6aef822256148307b325e3d7fb50b86fef9d6b959ec10961e014ee57e62b1788"
 }
