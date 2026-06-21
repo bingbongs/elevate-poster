@@ -10,7 +10,7 @@
     "outside_fx": true,
     "global_mirror": false,
     "blackjack_table": false,
-    "slot_machine": true,
+    "slot_machine": false,
     "boxing": false,
     "mri": false,
     "trampoline": false,
@@ -23,8 +23,8 @@
     "beam_audio_link": true,
     "beam_gradient": false,
     "global_colliders": false,
-    "avatar_height_limit": false,
-    "avatar_max_eye_height": 1.75,
+    "avatar_height_limit": true,
+    "avatar_max_eye_height": 0.45,
     "zero_gravity": false,
     "disco_color": "#8000ff",
     "disco_secondary_color": "#00ff80",
@@ -41,6 +41,6 @@
     "beam_width": -0.03,
     "beam_smooth_speed": 0.6,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-21T06:01:54+00:00",
-    "state_version": "4cefe8a1926b70d4081f0cde345c74fac1d08e7d0dac4a48fedcfc220dab5b94"
+    "updated_at": "2026-06-21T06:05:13+00:00",
+    "state_version": "5b860f296121d11e4c256f5bb63b4a3b31aaa17e14c4332fe5470bb045f06b29"
 }
