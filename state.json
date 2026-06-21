@@ -41,5 +41,6 @@
     "beam_smooth_speed": 4,
     "beam_audio_band": 0,
     "updated_at": "2026-06-21T03:29:39+00:00",
-    "state_version": "c54f40fd7119d71120bb068995405784a0c1730a51d3ae54ac6c85747f378189"
+    "state_version": "23d5635bd0dae7371a4e51f20a9d663e5dccdac03334b203dc134072b70e9fe9",
+    "extra_video_screen": false
 }
