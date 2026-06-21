@@ -4,7 +4,7 @@
     "extra_video_screen": false,
     "disco_ball": true,
     "disco_floor": true,
-    "normal_lights": false,
+    "normal_lights": true,
     "padded_cell": false,
     "couch_area": false,
     "outside_fx": true,
@@ -17,7 +17,7 @@
     "lazer_toggle": false,
     "underglow": true,
     "skrimpa_poul": false,
-    "stage_lights": true,
+    "stage_lights": false,
     "ceiling_lights": true,
     "beam_lights": false,
     "beam_audio_link": false,
@@ -41,6 +41,6 @@
     "beam_width": -0.07,
     "beam_smooth_speed": 0,
     "beam_audio_band": 0,
-    "updated_at": "2026-06-21T04:36:39+00:00",
-    "state_version": "b66df634cbe75bbf7bb254a07fd18b7efe099fbb2581bc39609925e4981d3d21"
+    "updated_at": "2026-06-21T04:37:35+00:00",
+    "state_version": "004c2a4764cb5a961d4a52fcec97b8f955ae137ec31e758b4b947783305d0c75"
 }
