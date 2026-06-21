@@ -13,7 +13,7 @@
     "boxing": false,
     "mri": false,
     "trampoline": false,
-    "lazer_toggle": true,
+    "lazer_toggle": false,
     "underglow": true,
     "skrimpa_poul": false,
     "stage_lights": true,
@@ -40,6 +40,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-21T03:22:12+00:00",
-    "state_version": "5665277e72b1abc286ae36c284b3a30736bfdccbd2ac0e4019ea9fb86d0bf65c"
+    "updated_at": "2026-06-21T03:23:02+00:00",
+    "state_version": "f2ca1b65375c637e15d75730e2f6579926a55e3d2f60cd3acfd466d1bad5eaee"
 }
