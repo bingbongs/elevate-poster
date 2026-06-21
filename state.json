@@ -1,6 +1,6 @@
 {
     "live_picture": true,
-    "video_screen": false,
+    "video_screen": true,
     "extra_video_screen": false,
     "disco_ball": true,
     "disco_floor": true,
@@ -41,6 +41,6 @@
     "beam_width": 0.5,
     "beam_smooth_speed": 4,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-21T05:44:04+00:00",
-    "state_version": "52d45f3251aeb1d85268c902d13906e7d657c6a127bf7275339028c123914fee"
+    "updated_at": "2026-06-21T05:45:37+00:00",
+    "state_version": "15d4cf4eba512c67eb7de3a13cdc5161195e123c1f592848591f77a0c8a44623"
 }
