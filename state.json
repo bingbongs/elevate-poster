@@ -6,14 +6,14 @@
     "disco_floor": true,
     "normal_lights": false,
     "padded_cell": false,
-    "couch_area": false,
+    "couch_area": true,
     "outside_fx": true,
     "global_mirror": false,
     "blackjack_table": false,
     "slot_machine": false,
     "boxing": false,
     "mri": false,
-    "trampoline": true,
+    "trampoline": false,
     "lazer_toggle": false,
     "underglow": true,
     "skrimpa_poul": false,
@@ -41,6 +41,6 @@
     "beam_width": -0.03,
     "beam_smooth_speed": 0.6,
     "beam_audio_band": 1,
-    "updated_at": "2026-06-21T06:31:03+00:00",
-    "state_version": "921e2f6781880b13e93be83338c3f3fa3d3a173dcb326bab01f8bcf5b9abfd48"
+    "updated_at": "2026-06-21T06:32:48+00:00",
+    "state_version": "b5c278aa2436285361fd650a21b71bccb858b90fd2f491e1627dba7e752f0114"
 }
