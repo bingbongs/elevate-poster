@@ -17,7 +17,7 @@
     "lazer_toggle": false,
     "underglow": true,
     "skrimpa_poul": false,
-    "stage_lights": false,
+    "stage_lights": true,
     "ceiling_lights": true,
     "beam_lights": false,
     "beam_audio_link": false,
@@ -28,7 +28,7 @@
     "zero_gravity": false,
     "disco_color": "#000661",
     "disco_secondary_color": "#400057",
-    "disco_intensity": 0.3,
+    "disco_intensity": 1.1,
     "normal_color": "#3e1839",
     "normal_temp": 2900,
     "normal_intensity": 0.2,
@@ -41,6 +41,6 @@
     "beam_width": -0.07,
     "beam_smooth_speed": 0,
     "beam_audio_band": 0,
-    "updated_at": "2026-06-21T04:37:35+00:00",
-    "state_version": "004c2a4764cb5a961d4a52fcec97b8f955ae137ec31e758b4b947783305d0c75"
+    "updated_at": "2026-06-21T04:43:47+00:00",
+    "state_version": "bd91fd64e4e1f62a790c8f638b1e8e73af813b39eaa78f6e6628830f1c4b0904"
 }
