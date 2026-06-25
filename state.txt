@@ -40,5 +40,5 @@ beam_intensity=0.49
 beam_width=-0.03
 beam_smooth_speed=0.6
 beam_audio_band=1
-updated_at=2026-06-25T14:41:12+00:00
-state_version=e344552742c4736e060300569902efdf2a290b2bf52a2eb0f9c571a5d56a62f0
+updated_at=2026-06-25T14:41:39+00:00
+state_version=739c97a1a81d280582dd4d2d336e38596dd7cf9db2f2745971d5cd1eff1784d4
